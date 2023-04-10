@@ -1,7 +1,7 @@
 # commands_jdbc_singleton_transacciones
 
 
-### Trasacciones
+# <h1 style="color:blue;">Transacciones</h1>
 
 ## Que es ?
 es un conjunfo de operaciones sobre la bas e de datos que se deben ejecutar como una unidad de trabajo.
